@@ -29,3 +29,11 @@
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
+
+
+## Additional Directions by Keenan:
+7. Pour the two mixture inside the baking pan
+8. Put the baking pan inside the pre-heated oven
+9. Wait about 20 minutes for the cake to cook
+10. Take the baking pan out of the oven
+11. Enjoy your slightly burnt cake
