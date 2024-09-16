@@ -9,6 +9,7 @@ public class DataTypes {
         for (int x : numbers) {
             s += x;
         }
+        System.out.println("wow");
         return s;
     }
 }
