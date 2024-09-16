@@ -1,5 +1,7 @@
 import org.junit.Test;
 
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.List;
 // place your cursor over junit below and
